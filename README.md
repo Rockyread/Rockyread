@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning dot net
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me github
 
 <!---
 Rockyread/Rockyread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
