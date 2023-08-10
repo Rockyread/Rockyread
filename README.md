@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rockyread
 - 👀 I’m interested in Coding and coffee
 - 🌱 I’m currently learning dot net
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some code
 - 📫 How to reach me github
 
 # 📊 GitHub Stats:
