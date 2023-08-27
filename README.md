@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rocky
 - 👀 I’m interested in Coding and coffee
-- 🌱 I’m currently learning dot net
+- 🌱 I’m currently learning dot net , painting
 - 💞️ I’m looking to collaborate on some code
 - 📫 How to reach me github
 
