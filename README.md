@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rockyread
+- 👋 Hi, I’m @Rocky
 - 👀 I’m interested in Coding and coffee
 - 🌱 I’m currently learning dot net
 - 💞️ I’m looking to collaborate on some code
